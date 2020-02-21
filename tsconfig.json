@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "outDir": "./dist/",
+        "noImplicitAny": 1,
+        "module": "es6",
+        "moduleResolution": "node",
+        "sourceMap": 1,
+        "target": "es6",
+        "typeRoots": [
+            "node_modules/@types"
+        ],
+        "lib": [
+            "es2017",
+            "dom"
+        ]
+    }
+}
